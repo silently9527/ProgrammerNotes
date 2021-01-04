@@ -24,14 +24,14 @@ MySQL、分布式、微服务、高并发与高可用等。
 - [面试者必看：Java8中的默认方法](https://mp.weixin.qq.com/s/IOxuE1Fhtro3gUWkHALPnQ)
 - [JAVA实现大文件多线程下载，提速30倍！想学？我教你啊](https://mp.weixin.qq.com/s/28hSfOqvg2aARisLVit0Ew)
 
-#### SpringMVC教程
+#### SpringMVC
 - [深入解析SpringMVC核心原理：从手写简易版MVC框架开始(SmartMvc)](https://github.com/silently9527/SmartMvc)
 
 
-#### SpringIOC教程
+#### SpringIOC
 
 
-#### SpringAOP教程
+#### SpringAOP
 
 
 
