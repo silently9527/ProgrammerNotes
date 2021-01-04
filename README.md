@@ -38,8 +38,8 @@ MySQL、分布式、微服务、高并发与高可用等。
 
 
 #### 微信公众号
-
-
+![](https://raw.githubusercontent.com/silently9527/JavaCore/master/imgs/gonzhonghao.png)
+<img style="width:200px" src="https://raw.githubusercontent.com/silently9527/JavaCore/master/imgs/gonzhonghao.png" alt="公众号">
 
 
 
