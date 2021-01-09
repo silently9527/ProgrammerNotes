@@ -35,10 +35,10 @@ MySQL、分布式、微服务、高并发与高可用等。
 
 #### 高并发架构基石-缓存
 - [万字长文聊缓存（上）- Http缓存](https://mp.weixin.qq.com/s/07H-E2wAstoMNUfWm28k0Q)
-
+- [万字长文聊缓存（下）- 应用级缓存](https://mp.weixin.qq.com/s/Ctqq_pzkmWcechRC2Sv-ow)
 
 #### 网络篇
-
+- [面试篇: Http协议](https://mp.weixin.qq.com/s/soVJqKD6mYI5eKKbuVpaLA)
 
 #### 其他
 - [码德系列：简化条件表达式](https://juejin.cn/post/6901814939833335821)
