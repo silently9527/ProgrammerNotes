@@ -22,7 +22,6 @@ MySQL、分布式、微服务、高并发与高可用等。
 - [Java8为什么需要引入新的日期和时间库](https://mp.weixin.qq.com/s/RvACVDyxoxGgK4-dqjriBA)
 - [Java中NullPointerException的完美解决方案](https://mp.weixin.qq.com/s/6XGH813YD2jvyNhaqqNi9g)
 - [面试者必看：Java8中的默认方法](https://mp.weixin.qq.com/s/IOxuE1Fhtro3gUWkHALPnQ)
-- [JAVA实现大文件多线程下载，提速30倍！想学？我教你啊](https://mp.weixin.qq.com/s/28hSfOqvg2aARisLVit0Ew)
 - [如何高效的使用并行流](https://mp.weixin.qq.com/s/6kYfoGVgho2YiWStsEHw5w)
 
 #### SpringMVC
@@ -43,6 +42,7 @@ MySQL、分布式、微服务、高并发与高可用等。
 
 #### 其他
 - [码德系列：简化条件表达式](https://juejin.cn/post/6901814939833335821)
+- [JAVA实现大文件多线程下载，提速30倍！想学？我教你啊](https://mp.weixin.qq.com/s/28hSfOqvg2aARisLVit0Ew)
 - [IDEA插件：多线程文件下载插件开发](https://mp.weixin.qq.com/s/eHXB85NyAeYNJUrLgwMshQ)
 
 
