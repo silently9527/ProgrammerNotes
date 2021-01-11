@@ -17,6 +17,9 @@ MySQL、分布式、微服务、高并发与高可用等。
 
 # 目录
 
+#### 算法
+- [一致性Hash算法Java版实现](https://mp.weixin.qq.com/s/eCxGPqrfIeFY_E_CnFRfMw)
+
 #### JAVA
 - [从零开始学习Java8 Stream，看这篇就够了](https://mp.weixin.qq.com/s/6sC8cIXEKHWLKodLFZDqtA)
 - [Java8为什么需要引入新的日期和时间库](https://mp.weixin.qq.com/s/RvACVDyxoxGgK4-dqjriBA)
