@@ -26,6 +26,7 @@ MySQL、分布式、微服务、高并发与高可用等。
 - [Java中NullPointerException的完美解决方案](https://mp.weixin.qq.com/s/6XGH813YD2jvyNhaqqNi9g)
 - [面试者必看：Java8中的默认方法](https://mp.weixin.qq.com/s/IOxuE1Fhtro3gUWkHALPnQ)
 - [如何高效的使用并行流](https://mp.weixin.qq.com/s/6kYfoGVgho2YiWStsEHw5w)
+- [这几款 JVM故障诊断处理工具 你还不会？](https://mp.weixin.qq.com/s/t7G1tSrNJ603nIpgzMY2uw)
 
 #### SpringMVC
 - [深入解析SpringMVC核心原理：从手写简易版MVC框架开始(SmartMvc)](https://github.com/silently9527/SmartMvc)
@@ -48,6 +49,8 @@ MySQL、分布式、微服务、高并发与高可用等。
 - [JAVA实现大文件多线程下载，提速30倍！想学？我教你啊](https://mp.weixin.qq.com/s/28hSfOqvg2aARisLVit0Ew)
 - [IDEA插件：多线程文件下载插件开发](https://mp.weixin.qq.com/s/eHXB85NyAeYNJUrLgwMshQ)
 
+#### 架构
+- [8张图带你了解大型应用架构演进历程](https://mp.weixin.qq.com/s/jtBTv1rsFHDDlyqbaWI-bA)
 
 #### 微信公众号
 
