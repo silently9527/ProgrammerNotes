@@ -27,6 +27,7 @@ MySQL、分布式、微服务、高并发与高可用等。
 - [面试者必看：Java8中的默认方法](https://mp.weixin.qq.com/s/IOxuE1Fhtro3gUWkHALPnQ)
 - [如何高效的使用并行流](https://mp.weixin.qq.com/s/6kYfoGVgho2YiWStsEHw5w)
 - [这几款 JVM故障诊断处理工具 你还不会？](https://mp.weixin.qq.com/s/t7G1tSrNJ603nIpgzMY2uw)
+- [CompletableFuture让你的代码免受阻塞之苦](https://mp.weixin.qq.com/s/pXo2vrsTd0tc_fYpBdf4SA)
 
 #### SpringMVC
 - [深入解析SpringMVC核心原理：从手写简易版MVC框架开始(SmartMvc)](https://github.com/silently9527/SmartMvc)
