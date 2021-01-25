@@ -43,6 +43,9 @@ MySQL、分布式、微服务、高并发与高可用等。
 - [这几款 JVM故障诊断处理工具 你还不会？](https://mp.weixin.qq.com/s/t7G1tSrNJ603nIpgzMY2uw)
 - [JVM性能调优实战：让你的IntelliJ Idea纵享丝滑](https://mp.weixin.qq.com/s/9EeuXnAhRIGQXBPYPEFd4w)
 
+## Srping
+- [SpEL这么香的功能都没有使用过，还敢说玩转Spring？](https://mp.weixin.qq.com/s/0HrXUviqZ2dRvzyTwQH-Hg)
+
 ## SpringMVC
 - [深入解析SpringMVC核心原理：从手写简易版MVC框架开始(SmartMvc)](https://github.com/silently9527/SmartMvc)
 
