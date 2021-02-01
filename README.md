@@ -78,7 +78,7 @@ MySQL、分布式、微服务、高并发与高可用等。
 ## 其他
 - [码德系列：简化条件表达式](https://juejin.cn/post/6901814939833335821)
 - [JAVA实现大文件多线程下载，提速30倍！想学？我教你啊](https://mp.weixin.qq.com/s/28hSfOqvg2aARisLVit0Ew)
-
+- [精美的淘客项目完全开源啦，确定不来围观吗](https://mp.weixin.qq.com/s/atU2Uq7zg9jJOosvWM8Q7w)
 ## IDEA
 - [IDEA插件：多线程文件下载插件开发](https://mp.weixin.qq.com/s/eHXB85NyAeYNJUrLgwMshQ)
 - [吐血整理：推荐几款顶级好用的IDEA插件](https://mp.weixin.qq.com/s/jFPNOzPH1dJKbzZYTGrqYA)
