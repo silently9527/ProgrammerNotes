@@ -1,9 +1,13 @@
-package cn.silently9527;
+package cn.silently9527.consistency.hash;
+
+import org.junit.Test;
 
 import java.util.stream.IntStream;
 
-public class TestApplication {
-    public static void main(String[] args) {
+public class ConsistencyHashTest {
+
+    @Test
+    public void test() {
         Cluster cluster = new ConsistencyHashCluster();
         cluster.addNode(new Node("node1", "192.168.16.1", "7001"));
         cluster.addNode(new Node("node2", "192.168.16.2", "7002"));

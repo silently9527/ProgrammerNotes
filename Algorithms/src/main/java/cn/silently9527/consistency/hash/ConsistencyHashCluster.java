@@ -1,4 +1,4 @@
-package cn.silently9527;
+package cn.silently9527.consistency.hash;
 
 import java.util.SortedMap;
 import java.util.TreeMap;
