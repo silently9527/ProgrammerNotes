@@ -29,6 +29,7 @@ MySQL、分布式、微服务、高并发与高可用等。
 
 ## 算法
 - [一致性Hash算法Java版实现](https://mp.weixin.qq.com/s/eCxGPqrfIeFY_E_CnFRfMw)
+- [面试的季节到了，老哥确定不来复习下数据结构吗](https://mp.weixin.qq.com/s/INJW8oTWzT6sdOZ8lJma0g)
 
 ## JAVA
 - [从零开始学习Java8 Stream，看这篇就够了](https://mp.weixin.qq.com/s/6sC8cIXEKHWLKodLFZDqtA)
