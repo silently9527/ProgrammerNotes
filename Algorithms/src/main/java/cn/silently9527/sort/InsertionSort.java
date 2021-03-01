@@ -1,5 +1,8 @@
 package cn.silently9527.sort;
 
+/**
+ * 插入排序
+ */
 public class InsertionSort implements SortTemplate {
 
     @Override

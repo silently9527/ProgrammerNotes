@@ -3,7 +3,7 @@ package cn.silently9527.sort;
 import org.junit.Test;
 
 public class SortTest {
-    private Integer[] array = new Integer[]{4, 6, 1, 4, 7, 0, 12, 44, 5, 2, 3};
+    private Integer[] array = new Integer[]{4, 6, 1, 67, 4, 7, 0, 12, 44, 5, 2, 32, 12, 32, 23, 4, 55, 67, 59, 3};
 
     @Test
     public void testSelectionSort() {
@@ -18,6 +18,7 @@ public class SortTest {
         bubbleSort.sort(array);
         bubbleSort.print(array);
     }
+
     @Test
     public void testInsertionSort() {
         InsertionSort insertionSort = new InsertionSort();
@@ -30,5 +31,18 @@ public class SortTest {
         ShellSort shellSort = new ShellSort();
         shellSort.sort(array);
         shellSort.print(array);
+    }
+
+    @Test
+    public void testMergeSort() {
+        MergeSort mergeSort = new MergeSort();
+        mergeSort.sort(array);
+        mergeSort.print(array);
+    }
+    @Test
+    public void testMergeSort2() {
+        MergeSort2 mergeSort = new MergeSort2();
+        mergeSort.sort(array);
+        mergeSort.print(array);
     }
 }
