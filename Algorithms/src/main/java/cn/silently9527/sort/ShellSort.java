@@ -1,5 +1,8 @@
 package cn.silently9527.sort;
 
+/**
+ * 希尔排序
+ */
 public class ShellSort implements SortTemplate {
 
     @Override

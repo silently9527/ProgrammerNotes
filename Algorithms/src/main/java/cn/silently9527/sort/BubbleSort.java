@@ -1,5 +1,8 @@
 package cn.silently9527.sort;
 
+/**
+ * 冒泡排序
+ */
 public class BubbleSort implements SortTemplate {
 
     @Override

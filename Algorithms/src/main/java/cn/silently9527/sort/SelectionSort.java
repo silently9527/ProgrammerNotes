@@ -1,5 +1,8 @@
 package cn.silently9527.sort;
 
+/**
+ * 选择排序
+ */
 public class SelectionSort implements SortTemplate {
 
     @Override
