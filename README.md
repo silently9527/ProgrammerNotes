@@ -46,7 +46,7 @@ MySQL、分布式、微服务、高并发与高可用等。
 - [JVM性能调优实战：让你的IntelliJ Idea纵享丝滑](https://mp.weixin.qq.com/s/9EeuXnAhRIGQXBPYPEFd4w)
 - [面试官常问的垃圾回收器，这次全搞懂](https://mp.weixin.qq.com/s/lNrudRXKMf843tY4Rb6k5w)
 
-## Srping
+## Spring
 - [SpEL这么香的功能都没有使用过，还敢说玩转Spring？](https://mp.weixin.qq.com/s/0HrXUviqZ2dRvzyTwQH-Hg)
 
 ## SpringMVC
