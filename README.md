@@ -31,6 +31,7 @@ MySQL、分布式、微服务、高并发与高可用等。
 - [一致性Hash算法Java版实现](https://mp.weixin.qq.com/s/eCxGPqrfIeFY_E_CnFRfMw)
 - [面试的季节到了，老哥确定不来复习下数据结构吗](https://mp.weixin.qq.com/s/INJW8oTWzT6sdOZ8lJma0g)
 - [如何检测社交网络中两个人是否是朋友关系（union-find算法）](https://mp.weixin.qq.com/s/twPSCnxMUmaSz_v8uCLNHw)
+- [常见的初级排序算法，这次全搞懂](https://mp.weixin.qq.com/s/neol2vvmA_uXGbndKec1hw)
 - [死磕归并排序算法](https://mp.weixin.qq.com/s/aJRWB8eekdc8VE2Yx_E4pQ)
 
 ## JAVA
