@@ -32,10 +32,6 @@ public class QuickSort implements SortTemplate {
         }
     }
 
-    public static void main(String[] args) {
-        System.out.println(new Random().nextInt(0));
-    }
-
     private int partition(Comparable[] array, int lo, int hi) {
         int i = lo, j = hi + 1;
         int random = new Random().nextInt(hi - lo) + lo;
