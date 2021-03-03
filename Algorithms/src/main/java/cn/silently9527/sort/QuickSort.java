@@ -1,5 +1,6 @@
 package cn.silently9527.sort;
 
+import java.util.Collections;
 import java.util.Random;
 
 public class QuickSort implements SortTemplate {

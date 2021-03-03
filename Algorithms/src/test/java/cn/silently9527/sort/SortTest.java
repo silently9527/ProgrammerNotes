@@ -53,4 +53,11 @@ public class SortTest {
         quickSort.sort(array);
         quickSort.print(array);
     }
+
+    @Test
+    public void testQuick3waySort() {
+        Quick3waySort quick3waySort = new Quick3waySort();
+        quick3waySort.sort(array);
+        quick3waySort.print(array);
+    }
 }
