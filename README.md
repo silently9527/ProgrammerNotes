@@ -89,7 +89,7 @@ MySQL、分布式、微服务、高并发与高可用等。
 - [IDEA插件：多线程文件下载插件开发](https://mp.weixin.qq.com/s/eHXB85NyAeYNJUrLgwMshQ)
 - [吐血整理：推荐几款顶级好用的IDEA插件](https://mp.weixin.qq.com/s/jFPNOzPH1dJKbzZYTGrqYA)
 - [熬夜肝了个IDEA插件整合程序员常用的工具，总有你能用上的](https://mp.weixin.qq.com/s/M80ZnNG79d0OkkciA3J-ag)
-
+- [自从用了这款IDEA插件我的工作效率大大提升](https://mp.weixin.qq.com/s/nMOvX0J5ABQnqYbws912fA)
 ## 书单
 - 《Java 编程思想 (第 4 版)》 - Java领域的圣经，建议稍微有点基础后阅读。不推荐初学者阅读，小心被劝退
 - 《深入理解 Java 虚拟机》 - Java程序员了解JVM的必读书籍
