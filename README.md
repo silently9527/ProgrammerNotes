@@ -37,6 +37,7 @@ MySQL、分布式、微服务、高并发与高可用等。
 - [常见的初级排序算法，这次全搞懂（冒泡、选择、插入、希尔）](https://mp.weixin.qq.com/s/neol2vvmA_uXGbndKec1hw)
 - [死磕归并排序算法](https://mp.weixin.qq.com/s/aJRWB8eekdc8VE2Yx_E4pQ)
 - [快速排序算法实现及优化](https://mp.weixin.qq.com/s/aZ8XIb8fg_Chj4tTHOhmeQ)
+- [面试官再问你优先级队列，请把这篇文章丢给他](https://mp.weixin.qq.com/s/XzjfLpSa_IpYr6EGlJ5hJw)
 
 ## JAVA
 - [从零开始学习Java8 Stream，看这篇就够了](https://mp.weixin.qq.com/s/6sC8cIXEKHWLKodLFZDqtA)
