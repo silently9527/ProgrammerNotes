@@ -61,4 +61,20 @@ public class QueueTest {
         System.out.println(queue.dequeue());
     }
 
+    @Test
+    public void testBinaryHeapPriorityQueue() {
+        Queue<Integer> queue = new BinaryHeapPriorityQueue<>(4, Integer::compareTo);
+        queue.enqueue(0);
+        queue.enqueue(5);
+        queue.enqueue(2);
+//        queue.enqueue(8);
+
+        System.out.println("出队列：");
+
+        System.out.println(queue.dequeue());
+        System.out.println(queue.dequeue());
+        System.out.println(queue.dequeue());
+//        System.out.println(queue.dequeue());
+    }
+
 }

@@ -60,4 +60,11 @@ public class SortTest {
         quick3waySort.sort(array);
         quick3waySort.print(array);
     }
+
+    @Test
+    public void testHeapSort() {
+        HeapSort heapSort = new HeapSort();
+        heapSort.sort(array);
+        heapSort.print(array);
+    }
 }

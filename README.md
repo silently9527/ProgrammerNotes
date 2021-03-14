@@ -11,6 +11,11 @@
 </p>
 
 
+## 微信公众号
+
+<img width="200" src="https://raw.githubusercontent.com/silently9527/JavaCore/master/imgs/gonzhonghao.png" alt="公众号">
+
+
 > **Java程序员所需要掌握的核心知识:** 集合框架、JVM机制、多线程与并发框架、网络协议、SpringIOC、SpringAOP、SpringMVC、SpringCloud、Dubbo、
 MySQL、分布式、微服务、高并发与高可用等。
 >
@@ -96,9 +101,6 @@ MySQL、分布式、微服务、高并发与高可用等。
 这几本书有部分内容重叠
 - 《深入浅出 Java 多线程》 - 这本是大厂大佬开源的书籍，在线阅读地址：[https://redspider.gitbook.io/concurrent/](https://redspider.gitbook.io/concurrent/)
 
-## 微信公众号
-
-<img width="200" src="https://raw.githubusercontent.com/silently9527/JavaCore/master/imgs/gonzhonghao.png" alt="公众号">
 
 
 ## 我的技术博客
