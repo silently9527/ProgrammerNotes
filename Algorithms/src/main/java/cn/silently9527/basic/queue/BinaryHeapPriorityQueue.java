@@ -56,7 +56,7 @@ public class BinaryHeapPriorityQueue<T> extends AbstractQueue<T> {
 
 
     private void swim(int k) {
-        while (k > 0 && less(queue[k / 2], queue[k])) {
+        while (k > 1 && less(queue[k / 2], queue[k])) {
             exch(queue, k / 2, k);
             k = k / 2;
         }
@@ -65,7 +65,7 @@ public class BinaryHeapPriorityQueue<T> extends AbstractQueue<T> {
     private void sink(int k) {
         while (2 * k <= size) {
             int i = 2 * k;
-            if (less(queue[i], queue[i + 1])) {
+            if (i < size && less(queue[i], queue[i + 1])) {
                 i++;
             }
             if (less(queue[i], queue[k])) {
