@@ -14,11 +14,6 @@
     <img src="https://tva1.sinaimg.cn/large/008eGmZEgy1goctduoafqj31hw03c0t5.jpg"/>
 </a>
 
-## 微信公众号
-
-<img width="200" src="https://raw.githubusercontent.com/silently9527/JavaCore/master/imgs/gonzhonghao.png" alt="公众号">
-
-
 > **Java程序员所需要掌握的核心知识:** 集合框架、JVM机制、多线程与并发框架、网络协议、SpringIOC、SpringAOP、SpringMVC、SpringCloud、Dubbo、
 MySQL、分布式、微服务、高并发与高可用等。
 >
@@ -27,10 +22,9 @@ MySQL、分布式、微服务、高并发与高可用等。
 # 全文持续更新中 ... 
 
 
-## 代办
-- [ ] 数据结构与算法
-- [ ] JDK集合源码解读
-- [ ] Netty
+## 微信公众号
+
+<img width="200" src="https://raw.githubusercontent.com/silently9527/JavaCore/master/imgs/gonzhonghao.png" alt="公众号">
 
 
 # 目录
