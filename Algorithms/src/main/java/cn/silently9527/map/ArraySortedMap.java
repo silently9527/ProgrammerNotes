@@ -72,6 +72,16 @@ public class ArraySortedMap<K extends Comparable<K>, V> implements SortedMap<K, 
     }
 
     @Override
+    public void deleteMin() {
+
+    }
+
+    @Override
+    public void deleteMax() {
+
+    }
+
+    @Override
     public int size() {
         return size;
     }
@@ -93,4 +103,18 @@ public class ArraySortedMap<K extends Comparable<K>, V> implements SortedMap<K, 
         };
     }
 
+    @Override
+    public Iterable<TreeNode> nodes() {
+        return null;
+    }
+
+    @Override
+    public K min() {
+        return null;
+    }
+
+    @Override
+    public K max() {
+        return null;
+    }
 }

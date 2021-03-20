@@ -79,6 +79,11 @@ public class LinkedMap<K, V> implements Map<K, V> {
         };
     }
 
+    @Override
+    public Iterable<TreeNode> nodes() {
+        return null;
+    }
+
 
     class Node {
         K key;
