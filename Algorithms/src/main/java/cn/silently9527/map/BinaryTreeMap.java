@@ -1,5 +1,8 @@
 package cn.silently9527.map;
 
+import cn.silently9527.basic.queue.LinkedListQueue;
+import cn.silently9527.basic.queue.Queue;
+
 import java.util.Objects;
 
 public class BinaryTreeMap<K extends Comparable<K>, V> implements SortedMap<K, V> {
@@ -105,7 +108,18 @@ public class BinaryTreeMap<K extends Comparable<K>, V> implements SortedMap<K, V
 
     @Override
     public Iterable<TreeNode> nodes() {
-        return null;
+        Queue<TreeNode> queue = new LinkedListQueue<>();
+        iterableNode(queue, root);
+        return queue;
+    }
+
+    private void iterableNode(Queue<TreeNode> queue, Node node) {
+        if (Objects.isNull(node)) {
+            return;
+        }
+        iterableNode(queue, node.left);
+        queue.enqueue(node);
+        iterableNode(queue, node.right);
     }
 
     @Override
@@ -194,6 +208,15 @@ public class BinaryTreeMap<K extends Comparable<K>, V> implements SortedMap<K, V
         @Override
         public String getValueString() {
             return this.key.toString();
+        }
+
+        @Override
+        public String toString() {
+            return "Node{" +
+                    "key=" + key +
+                    ", value=" + value +
+                    ", size=" + size +
+                    '}';
         }
     }
 }

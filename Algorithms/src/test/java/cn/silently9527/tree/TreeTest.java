@@ -1,5 +1,6 @@
 package cn.silently9527.tree;
 
+import cn.silently9527.map.BinaryTreeMap;
 import cn.silently9527.map.RedBlack234RedBlackTreeMap;
 import cn.silently9527.map.RedBlack234RedBlackTreeMapV2;
 import cn.silently9527.map.RedBlack23RedBlackTreeMap;
@@ -104,6 +105,34 @@ public class TreeTest {
 
 
         map.draw("/Users/huaan9527/Desktop/redBlack5.png");
+
+    }
+
+    @Test
+    public void testBinaryTreeMap() throws IOException {
+//       80，50，100，90
+        BinaryTreeMap<Integer, String> map = new BinaryTreeMap<>();
+        map.put(8, "80");
+        map.put(18, "180");
+        map.put(5, "50");
+        map.put(15, "150");
+        map.put(17, "170");
+        map.put(25, "250");
+        map.put(40, "40");
+        map.put(80, "80");
+        map.put(30, "30");
+        map.put(60, "60");
+        map.put(16, "16");
+
+        System.out.println(map.get(15));
+        System.out.println(map.get(60));
+
+        System.out.println("1====>");
+        map.nodes().forEach(System.out::println);
+
+        map.delete(40);
+        System.out.println("2====>");
+        map.nodes().forEach(System.out::println);
 
     }
 
