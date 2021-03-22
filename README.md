@@ -37,6 +37,9 @@ MySQL、分布式、微服务、高并发与高可用等。
 - [死磕归并排序算法](https://mp.weixin.qq.com/s/aJRWB8eekdc8VE2Yx_E4pQ)
 - [快速排序算法实现及优化](https://mp.weixin.qq.com/s/aZ8XIb8fg_Chj4tTHOhmeQ)
 - [面试官再问你优先级队列，请把这篇文章丢给他](https://mp.weixin.qq.com/s/XzjfLpSa_IpYr6EGlJ5hJw)
+- [图解堆排序](https://mp.weixin.qq.com/s/OM_ExbozNOknDosR8HHd8Q)
+- [基于数组或链表实现Map](https://mp.weixin.qq.com/s/e2PZ0oyWRLZV5pBqtLnQvg)
+- [基于二叉树实现Map](https://mp.weixin.qq.com/s/v8aK7A6cbyZFQRrdjfUeSA)
 
 ## JAVA
 - [从零开始学习Java8 Stream，看这篇就够了](https://mp.weixin.qq.com/s/6sC8cIXEKHWLKodLFZDqtA)
