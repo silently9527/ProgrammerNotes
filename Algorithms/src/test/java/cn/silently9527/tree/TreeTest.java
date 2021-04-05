@@ -84,7 +84,6 @@ public class TreeTest {
 
     @Test
     public void testDelete() throws IOException {
-//       80，50，100，90
         RedBlack23RedBlackTreeMap<Integer, String> map = new RedBlack23RedBlackTreeMap<>();
         map.put(8, "80");
         map.put(18, "180");
@@ -100,12 +99,11 @@ public class TreeTest {
 
         map.draw("/Users/huaan9527/Desktop/redBlack4.png");
         map.delete(40);
-        System.out.println("====>");
+        map.delete(17);
+        map.delete(25);
         map.nodes().forEach(System.out::println);
 
-
         map.draw("/Users/huaan9527/Desktop/redBlack5.png");
-
     }
 
     @Test
