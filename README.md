@@ -30,32 +30,33 @@ MySQL、分布式、微服务、高并发与高可用等。
 # 目录
 
 ## 算法
-- [一致性Hash算法Java版实现](https://mp.weixin.qq.com/s/eCxGPqrfIeFY_E_CnFRfMw)
-- [面试的季节到了，老哥确定不来复习下数据结构吗(数组、链表、队列、栈)](https://mp.weixin.qq.com/s/INJW8oTWzT6sdOZ8lJma0g)
-- [如何检测社交网络中两个人是否是朋友关系（union-find算法）](https://mp.weixin.qq.com/s/twPSCnxMUmaSz_v8uCLNHw)
-- [常见的初级排序算法，这次全搞懂（冒泡、选择、插入、希尔）](https://mp.weixin.qq.com/s/neol2vvmA_uXGbndKec1hw)
-- [死磕归并排序算法](https://mp.weixin.qq.com/s/aJRWB8eekdc8VE2Yx_E4pQ)
-- [快速排序算法实现及优化](https://mp.weixin.qq.com/s/aZ8XIb8fg_Chj4tTHOhmeQ)
-- [面试官再问你优先级队列，请把这篇文章丢给他](https://mp.weixin.qq.com/s/XzjfLpSa_IpYr6EGlJ5hJw)
-- [图解堆排序](https://mp.weixin.qq.com/s/OM_ExbozNOknDosR8HHd8Q)
-- [基于数组或链表实现Map](https://mp.weixin.qq.com/s/e2PZ0oyWRLZV5pBqtLnQvg)
-- [基于二叉树实现Map](https://mp.weixin.qq.com/s/v8aK7A6cbyZFQRrdjfUeSA)
+- [一致性Hash算法Java版实现](https://juejin.cn/post/6916292890171801613)
+- [面试的季节到了，老哥确定不来复习下数据结构吗(数组、链表、队列、栈)](https://juejin.cn/post/6926685994347397127)
+- [如何检测社交网络中两个人是否是朋友关系（union-find算法）](https://juejin.cn/post/6930395454739841037)
+- [常见的初级排序算法，这次全搞懂（冒泡、选择、插入、希尔）](https://juejin.cn/post/6931878099168526350)
+- [死磕归并排序算法](https://juejin.cn/post/6934477308262629390)
+- [快速排序算法实现及优化](https://juejin.cn/post/6935594339078766628)
+- [面试官再问你优先级队列，请把这篇文章丢给他](https://juejin.cn/post/6937819804296282143)
+- [图解堆排序](https://juejin.cn/post/6939663656229535774)
+- [基于数组或链表实现Map](https://juejin.cn/post/6940442429229105183)
+- [基于二叉树实现Map](https://juejin.cn/post/6942270959512453156)
+- [硬核图解红黑树并手写实现](https://juejin.cn/post/6947666874226180133)
 
 ## JAVA
-- [从零开始学习Java8 Stream，看这篇就够了](https://mp.weixin.qq.com/s/6sC8cIXEKHWLKodLFZDqtA)
-- [Java8为什么需要引入新的日期和时间库](https://mp.weixin.qq.com/s/RvACVDyxoxGgK4-dqjriBA)
-- [Java中NullPointerException的完美解决方案](https://mp.weixin.qq.com/s/6XGH813YD2jvyNhaqqNi9g)
-- [面试者必看：Java8中的默认方法](https://mp.weixin.qq.com/s/IOxuE1Fhtro3gUWkHALPnQ)
-- [如何高效的使用并行流](https://mp.weixin.qq.com/s/6kYfoGVgho2YiWStsEHw5w)
-- [CompletableFuture让你的代码免受阻塞之苦](https://mp.weixin.qq.com/s/pXo2vrsTd0tc_fYpBdf4SA)
+- [从零开始学习Java8 Stream，看这篇就够了](https://juejin.cn/post/6906622103827513351)
+- [Java8为什么需要引入新的日期和时间库](https://juejin.cn/post/6894968780003377165)
+- [Java中NullPointerException的完美解决方案](https://juejin.cn/post/6896301661975740423)
+- [面试者必看：Java8中的默认方法](https://juejin.cn/post/6899189517673037832)
+- [如何高效的使用并行流](https://juejin.cn/post/6900711829404647431)
+- [CompletableFuture让你的代码免受阻塞之苦](https://juejin.cn/post/6897844374093496328)
 
 ## JVM
-- [这几款 JVM故障诊断处理工具 你还不会？](https://mp.weixin.qq.com/s/t7G1tSrNJ603nIpgzMY2uw)
-- [JVM性能调优实战：让你的IntelliJ Idea纵享丝滑](https://mp.weixin.qq.com/s/9EeuXnAhRIGQXBPYPEFd4w)
-- [面试官常问的垃圾回收器，这次全搞懂](https://mp.weixin.qq.com/s/lNrudRXKMf843tY4Rb6k5w)
+- [这几款 JVM故障诊断处理工具 你还不会？](https://juejin.cn/post/6917036245923135501)
+- [JVM性能调优实战：让你的IntelliJ Idea纵享丝滑](https://juejin.cn/post/6918891931162378254)
+- [面试官常问的垃圾回收器，这次全搞懂](https://juejin.cn/post/6918891931162378254)
 
 ## Spring
-- [SpEL这么香的功能都没有使用过，还敢说玩转Spring？](https://mp.weixin.qq.com/s/0HrXUviqZ2dRvzyTwQH-Hg)
+- [SpEL这么香的功能都没有使用过，还敢说玩转Spring？](https://juejin.cn/post/6921491842865299469)
 
 ## SpringMVC
 - [深入解析SpringMVC核心原理：从手写简易版MVC框架开始(SmartMvc)](https://github.com/silently9527/SmartMvc)
@@ -77,25 +78,26 @@ MySQL、分布式、微服务、高并发与高可用等。
     - [16 SmartMvc项目实战](https://silently9527.cn/archives/86)
 
 ## 高并发架构基石-缓存
-- [万字长文聊缓存（上）- Http缓存](https://mp.weixin.qq.com/s/07H-E2wAstoMNUfWm28k0Q)
-- [万字长文聊缓存（下）- 应用级缓存](https://mp.weixin.qq.com/s/Ctqq_pzkmWcechRC2Sv-ow)
+- [万字长文聊缓存（上）- Http缓存](https://juejin.cn/post/6913696905918857230)
+- [万字长文聊缓存（下）- 应用级缓存](https://juejin.cn/post/6913697273863995400)
 
 ## 网络篇
-- [面试篇: Http协议](https://mp.weixin.qq.com/s/soVJqKD6mYI5eKKbuVpaLA)
+- [面试篇: Http协议](https://juejin.cn/post/6908501668325769223)
 
 ## 架构
-- [8张图带你了解大型应用架构演进历程](https://mp.weixin.qq.com/s/jtBTv1rsFHDDlyqbaWI-bA)
+- [8张图带你了解大型应用架构演进历程](https://juejin.cn/post/6903301691551498248)
 
 ## 其他
 - [码德系列：简化条件表达式](https://juejin.cn/post/6901814939833335821)
-- [JAVA实现大文件多线程下载，提速30倍！想学？我教你啊](https://mp.weixin.qq.com/s/28hSfOqvg2aARisLVit0Ew)
-- [精美的淘客项目完全开源啦，确定不来围观吗](https://mp.weixin.qq.com/s/atU2Uq7zg9jJOosvWM8Q7w)
+- [JAVA实现大文件多线程下载，提速30倍！想学？我教你啊](https://juejin.cn/post/6908867438624899079)
+- [精美的淘客项目完全开源啦，确定不来围观吗](https://juejin.cn/post/6924109784380047374)
 
 ## IDEA
-- [IDEA插件：多线程文件下载插件开发](https://mp.weixin.qq.com/s/eHXB85NyAeYNJUrLgwMshQ)
-- [吐血整理：推荐几款顶级好用的IDEA插件](https://mp.weixin.qq.com/s/jFPNOzPH1dJKbzZYTGrqYA)
-- [熬夜肝了个IDEA插件整合程序员常用的工具，总有你能用上的](https://mp.weixin.qq.com/s/M80ZnNG79d0OkkciA3J-ag)
-- [自从用了这款IDEA插件我的工作效率大大提升](https://mp.weixin.qq.com/s/nMOvX0J5ABQnqYbws912fA)
+- [IDEA插件：多线程文件下载插件开发](https://juejin.cn/post/6911844176736976903)
+- [吐血整理：推荐几款顶级好用的IDEA插件](https://juejin.cn/post/6919640776058077197)
+- [熬夜肝了个IDEA插件整合程序员常用的工具，总有你能用上的](https://juejin.cn/post/6924829580511412231)
+- [自从用了这款IDEA插件我的工作效率大大提升](https://juejin.cn/post/6937076427116249095)
+
 ## 书单
 - 《Java 编程思想 (第 4 版)》 - Java领域的圣经，建议稍微有点基础后阅读。不推荐初学者阅读，小心被劝退
 - 《深入理解 Java 虚拟机》 - Java程序员了解JVM的必读书籍
