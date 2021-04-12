@@ -1,6 +1,7 @@
 package cn.silently9527.map;
 
 import java.util.Iterator;
+import java.util.Objects;
 import java.util.Optional;
 
 public class LinkedMap<K, V> implements Map<K, V> {
@@ -35,24 +36,24 @@ public class LinkedMap<K, V> implements Map<K, V> {
 
     @Override
     public void delete(K key) {
-//        for (Node node = first, preNode = null; node != null; preNode = node, node = node.next) {
-//            if (node.key.equals(key)) {
-//                if (Objects.isNull(preNode)) {
-//                    first = first.next;
-//                } else {
-//                    preNode.next = node.next;
-//                }
-//            }
-//        }
-
-        for (Node node = first; node != null; node = node.next) {
+        for (Node node = first, preNode = null; node != null; preNode = node, node = node.next) {
             if (node.key.equals(key)) {
-                Node next = node.next;
-                node.key = next.key;
-                node.value =next.value;
-                node.next = next.next;
+                if (Objects.isNull(preNode)) {
+                    first = first.next;
+                } else {
+                    preNode.next = node.next;
+                }
             }
         }
+
+//        for (Node node = first; node != null; node = node.next) {
+//            if (node.key.equals(key)) {
+//                Node next = node.next;
+//                node.key = next.key;
+//                node.value =next.value;
+//                node.next = next.next;
+//            }
+//        }
     }
 
     @Override

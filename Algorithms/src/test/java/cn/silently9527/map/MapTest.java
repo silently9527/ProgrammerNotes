@@ -47,5 +47,37 @@ public class MapTest {
 
     }
 
+    @Test
+    public void testSeparateChainingHashMap(){
+        Map<Integer, String> map = new SeparateChainingHashMap<>(10);
+        map.put(1, "name=Silently9527");
+        map.put(2, "website=http://silently9527.cn");
+        map.put(3, "juejin-name=Silently9527");
+
+        System.out.println(map.get(3));
+        map.delete(3);
+        System.out.println(map.get(3));
+    }
+
+
+
+    @Test
+    public void testLinearProbingHashMap(){
+        Map<Integer, String> map = new LinearProbingHashMap<>(10);
+        map.put(1, "name=Silently9527");
+        map.put(2, "website=http://silently9527.cn");
+        map.put(3, "juejin-name=Silently9527");
+
+        System.out.println(map.get(3));
+        map.delete(3);
+        System.out.println(map.get(3));
+    }
+
+
+
+
+
+
+
 
 }

@@ -13,7 +13,10 @@ public interface Map<K, V> {
 
     Iterable<K> keys();
 
-    Iterable<TreeNode> nodes();
+    default Iterable<TreeNode> nodes() {
+        return null;
+    }
+
 
     default boolean contains(K key) {
         return get(key) != null;
