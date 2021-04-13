@@ -41,6 +41,7 @@ MySQL、分布式、微服务、高并发与高可用等。
 - [基于数组或链表实现Map](https://juejin.cn/post/6940442429229105183)
 - [基于二叉树实现Map](https://juejin.cn/post/6942270959512453156)
 - [硬核图解红黑树并手写实现](https://juejin.cn/post/6947666874226180133)
+- [基于拉链式和线性探测式散列表实现Map](https://juejin.cn/post/6950434221978550303)
 
 ## JAVA
 - [从零开始学习Java8 Stream，看这篇就够了](https://juejin.cn/post/6906622103827513351)
