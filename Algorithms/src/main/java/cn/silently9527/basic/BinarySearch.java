@@ -4,6 +4,7 @@ public class BinarySearch {
 
     /**
      * 二分查找
+     *
      * @param key
      * @param arr
      * @return 存在返回对应的下标，不存在返回 -1

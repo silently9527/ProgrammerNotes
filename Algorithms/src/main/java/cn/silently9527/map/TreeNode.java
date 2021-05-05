@@ -9,7 +9,7 @@ public interface TreeNode {
 
     String getValueString();
 
-    default Color getColor(){
+    default Color getColor() {
         return Color.BLACK;
     }
 }

@@ -42,7 +42,7 @@ public class Node {
         return data.get(key);
     }
 
-    public int dataSize(){
+    public int dataSize() {
         return this.data.size();
     }
 }

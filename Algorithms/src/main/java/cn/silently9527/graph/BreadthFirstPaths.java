@@ -17,7 +17,7 @@ public class BreadthFirstPaths {
         this.marked = new boolean[graph.V()];
         this.edgeTo = new int[graph.V()];
 
-        bfs(graph,s);
+        bfs(graph, s);
     }
 
     private void bfs(Graph graph, int s) {
