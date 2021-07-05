@@ -7,13 +7,13 @@ import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 import io.netty.util.CharsetUtil;
 
-public class EchoServerHandler extends ChannelInboundHandlerAdapter {
+public class EchoServerHandler3 extends ChannelInboundHandlerAdapter {
 
     @Override
     public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {
-        System.out.println("Server received:434444444");
-        ctx.channel().writeAndFlush(Unpooled.buffer().writeBytes("Server EchoServerHandler".getBytes()));
-//        super.channelRead(ctx, msg);
+        System.out.println("Server received:11111111");
+        ctx.channel().writeAndFlush(Unpooled.buffer().writeBytes("Server EchoServerHandler3".getBytes()));
+        super.channelRead(ctx, msg);
     }
 
     @Override

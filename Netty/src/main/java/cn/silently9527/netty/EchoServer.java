@@ -16,7 +16,6 @@ public class EchoServer {
     }
 
     public void start() throws InterruptedException {
-        EchoServerHandler echoServerHandler = new EchoServerHandler();
         EventLoopGroup group = new NioEventLoopGroup();
 
         try {
@@ -27,7 +26,10 @@ public class EchoServer {
                     .childHandler(new ChannelInitializer<SocketChannel>() {
                         @Override
                         protected void initChannel(SocketChannel ch) throws Exception {
-                            ch.pipeline().addLast(echoServerHandler);
+                            ch.pipeline()
+                                    .addLast(new EchoServerHandler())
+                                    .addLast(new EchoServerHandler2());
+//                                    .addLast(new EchoServerHandler3());
                         }
                     });
             ChannelFuture channelFuture = bootstrap.bind().sync();
@@ -40,6 +42,9 @@ public class EchoServer {
 
     public static void main(String[] args) throws InterruptedException {
         new EchoServer(8080).start();
+//        System.out.println(16>>>4);
+//        System.out.println(32>>>4);
+//        System.out.println(1<< 6);
     }
 
 }
