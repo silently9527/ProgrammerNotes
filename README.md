@@ -1,5 +1,5 @@
 
-<h2>JAVA NOTE</h2>
+<h2>Programmer Notes</h2>
 
 <p align="center">
   <a href="#微信公众号"><img src="https://img.shields.io/badge/公众号-贝塔学JAVA-blue.svg" alt="公众号"></a>
@@ -23,7 +23,7 @@ MySQL、分布式、微服务、高并发与高可用等。
 
 #### 微信公众号
 
-<img width="200" src="https://raw.githubusercontent.com/silently9527/JavaCore/master/imgs/gonzhonghao.png" alt="公众号">
+<img width="200" src="https://tva1.sinaimg.cn/large/008i3skNgy1gtezj6orcdj60gu0gswfr02.jpg" alt="公众号">
 
 #### 需要进入技术交流群的同学，添加我的个人微信号：silently9527
 
