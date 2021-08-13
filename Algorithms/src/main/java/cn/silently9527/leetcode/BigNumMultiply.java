@@ -1,4 +1,4 @@
-package cn.silently9527.basic;
+package cn.silently9527.leetcode;
 
 import java.util.Arrays;
 

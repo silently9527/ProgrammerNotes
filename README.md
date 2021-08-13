@@ -1,6 +1,5 @@
 
-![javacore](https://raw.githubusercontent.com/silently9527/JavaCore/master/imgs/javacore.png)
-
+<h2>JAVA NOTE</h2>
 
 <p align="center">
   <a href="#微信公众号"><img src="https://img.shields.io/badge/公众号-贝塔学JAVA-blue.svg" alt="公众号"></a>
@@ -22,10 +21,13 @@ MySQL、分布式、微服务、高并发与高可用等。
 # 全文持续更新中 ... 
 
 
-## 微信公众号
+#### 微信公众号
 
 <img width="200" src="https://raw.githubusercontent.com/silently9527/JavaCore/master/imgs/gonzhonghao.png" alt="公众号">
 
+#### 需要进入技术交流群的同学，添加我的个人微信号：silently9527
+
+<img width="200" src="https://tva1.sinaimg.cn/large/008i3skNgy1gteyh15a44j60h40g03zo02.jpg" alt="silently9527">
 
 # 目录
 

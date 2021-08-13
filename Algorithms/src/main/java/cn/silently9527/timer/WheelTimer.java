@@ -3,6 +3,9 @@ package cn.silently9527.timer;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * 时间轮
+ */
 public class WheelTimer implements Timer {
     private final int wheelSize; //时间刻度大小；
     private final long tickDuration; //每次拨动表盘指针的最小时间 最小单位到毫秒
