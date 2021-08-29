@@ -51,6 +51,13 @@ MySQL、分布式、微服务、高并发与高可用等。
 - [JVM性能调优实战：让你的IntelliJ Idea纵享丝滑](https://juejin.cn/post/6918891931162378254)
 - [面试官常问的垃圾回收器，这次全搞懂](https://juejin.cn/post/6918891931162378254)
 
+## MySQL
+- [00 Mysql的安装教程以及开启远程访问](https://silently9527.cn/?p=63)
+- [01 InnoDB行记录存储结构](https://silently9527.cn/?p=62)
+
+## Redis
+- [全网最细的redis安装教程](https://silently9527.cn/?p=64)
+
 ## Spring
 - [SpEL这么香的功能都没有使用过，还敢说玩转Spring？](https://juejin.cn/post/6921491842865299469)
 
