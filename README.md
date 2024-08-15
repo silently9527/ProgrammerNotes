@@ -15,9 +15,11 @@ MySQL、分布式、微服务、高并发与高可用等。
 
 # 全文持续更新中 ... 
 
-#### 期待你的加入，公众号：`贝塔学Java`，个人微信号：silently9527
+### 博客地址: [https://herman7z.site](https://herman7z.site)
+### 个人微信: silently9527
+### 知识星球: [Herman's Notes](https://t.zsxq.com/lbvqm)
+![](https://raw.githubusercontent.com/silently9527/images/main/github海报 (1).png)
 
-<img src="https://cdn.silently9527.cn/2023-05-10-%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%B0%8F.jpg?imageView2/1/w/600/h/350" alt="公众号">
 
 # 目录
 
