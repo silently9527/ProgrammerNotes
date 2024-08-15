@@ -100,10 +100,6 @@ MySQL、分布式、微服务、高并发与高可用等。
 ## 书单
 - [花费一月时间吐血整理程序员必读书单，建议收藏](https://juejin.cn/post/6948577826975481893)
 
-
-## 我的技术博客
-[https://silently9527.cn/](https://silently9527.cn/)
-
 ## 其他项目推荐
 * [前后端完全开源高颜值淘客APP](https://github.com/silently9527/coupons)
 * [Idea工具箱插件](https://github.com/silently9527/Toolkit)
@@ -113,7 +109,8 @@ MySQL、分布式、微服务、高并发与高可用等。
 * [高颜值可定制化的简介导航网站](http://nav.silently9527.cn/)
 
 
-### 博客地址: [https://herman7z.site](https://herman7z.site)
-### 个人微信: silently9527
+### 博客地址
+[https://herman7z.site](https://herman7z.site)
+
 ### 知识星球: [Herman's Notes](https://t.zsxq.com/h2EIR)
 ![](https://raw.githubusercontent.com/silently9527/images/main/202408151725390.png)
