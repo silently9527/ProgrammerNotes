@@ -18,6 +18,9 @@ MySQL、分布式、微服务、高并发与高可用等。
 
 ## 加微信`silently9527`,加入技术交流群
 
+### 全部文章已迁至新博客
+[https://herman7z.site](https://herman7z.site)
+
 # 目录
 
 ## 算法
@@ -112,8 +115,7 @@ MySQL、分布式、微服务、高并发与高可用等。
 * [高颜值可定制化的简介导航网站](http://nav.silently9527.cn/)
 
 
-### 博客地址
-[https://herman7z.site](https://herman7z.site)
+
 
 ### 知识星球: [Herman's Notes](https://t.zsxq.com/h2EIR)
 ![](https://raw.githubusercontent.com/silently9527/images/main/202408151725390.png)
